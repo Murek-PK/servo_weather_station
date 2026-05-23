@@ -2,9 +2,6 @@
 
 ESP8266 weather station with SG90 servos, PCA9685 driver and a web-based calibration panel.
 
-Suggested GitHub repository name:
-- `servo_weather_station`
-
 This project is designed for a physical 3D-printed weather display that presents:
 - current temperature
 - current weather condition
