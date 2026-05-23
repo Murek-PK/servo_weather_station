@@ -11,6 +11,8 @@ This project is designed for a physical 3D-printed weather display that presents
 - forecast temperature trend
 - forecast weather condition
 
+3D files: https://cults3d.com/en/3d-model/home/modular-mechanical-wifi-weather-station-wemos-d1-mini-sg90
+
 ## Features
 
 - ESP8266-based control
