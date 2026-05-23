@@ -14,7 +14,7 @@ This project is designed for a physical 3D-printed weather display that presents
 
 - ESP8266-based control
 - PCA9685 servo driver support
-- support for `1-5` forecast modules
+- support for `3-5` forecast modules
 - web UI for calibration and diagnostics
 - first-run calibration workflow
 - current weather and forecast from Open-Meteo
