@@ -27,8 +27,8 @@ const bool WEATHER_LOCATION_USE_COORDINATES = false;
 
 const char* WEATHER_CITY = "Warsaw"; // set your city or switch to coordinates below
 const char* WEATHER_COUNTRY = "PL"; //kod kraju ISO 3166-1 alpha-2
-const float WEATHER_LATITUDE = 52.229771; //uzywane tylko gdy WEATHER_LOCATION_USE_COORDINATES = true
-const float WEATHER_LONGITUDE = 21.011780; //uzywane tylko gdy WEATHER_LOCATION_USE_COORDINATES = true
+const float WEATHER_LATITUDE = 52.229771; //used when WEATHER_LOCATION_USE_COORDINATES = true
+const float WEATHER_LONGITUDE = 21.011780; //used when WEATHER_LOCATION_USE_COORDINATES = true
 
 const unsigned long WEATHER_UPDATE_INTERVAL = 10UL * 60UL * 1000UL;
 unsigned long lastWeatherUpdate = 0;
