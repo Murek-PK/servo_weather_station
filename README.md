@@ -189,16 +189,6 @@ The public sketch already uses placeholder Wi-Fi credentials:
 
 Before uploading firmware to hardware, replace them with your own network settings.
 
-## Suggested GitHub Additions
-
-When publishing the full project, consider adding:
-- photos or renders of the build
-- STL / 3D model files
-- wiring diagram
-- assembly guide
-- BOM (bill of materials)
-- screenshots of the calibration page
-
 ## Weather Data Attribution
 
 This project uses weather data from [Open-Meteo](https://open-meteo.com/).
